@@ -1,0 +1,71 @@
+{
+	"products": [
+		{
+			"id": 5,
+			"url": "#",
+			"title": "Red Women Purses",
+			"text": "Were divided land",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "05.jpg",
+			"price": "$25.00",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 6,
+			"url": "#",
+			"title": "Red Women Purses",
+			"text": "Were divided land",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				},
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "06.jpg",
+			"price": "$25.00",
+			"priceOld": "$35.00",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 7,
+			"url": "#",
+			"title": "Red Women Purses",
+			"text": "Were divided land",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				}
+			],
+			"image": "07.jpg",
+			"price": "$35.00",
+			"priceOld": "$55.00",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 8,
+			"url": "#",
+			"title": "Red Women Purses",
+			"text": "Were divided land",
+			"labels": "",
+			"image": "08.jpg",
+			"price": "$55.00",
+			"priceOld": "$85.00",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+	]
+}
